@@ -50,17 +50,17 @@ If it’s not installed, you can install bash using your package manager:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Lalatenduswain/rename_to_lowercase.sh
-   Or
-   curl -sSL https://raw.githubusercontent.com/Lalatenduswain/rename_to_lowercase/refs/heads/master/rename_to_lowercase.sh | bash
+      curl -sSL https://raw.githubusercontent.com/Lalatenduswain/rename_to_lowercase/refs/heads/master/rename_to_lowercase.sh | bash
    ```
-
+   ```bash
+      https://github.com/Lalatenduswain/rename_to_lowercase.git
+   ```
 2. **Navigate to the Script Directory**
 
    Change your directory to where the script is located:
 
    ```bash
-   cd rename_to_lowercase.sh
+   cd rename_to_lowercase
    ```
 
 3. **Make the Script Executable**
