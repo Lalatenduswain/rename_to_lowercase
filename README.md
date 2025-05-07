@@ -53,7 +53,7 @@ If it’s not installed, you can install bash using your package manager:
       curl -sSL https://raw.githubusercontent.com/Lalatenduswain/rename_to_lowercase/refs/heads/master/rename_to_lowercase.sh | bash
    ```
    ```bash
-      https://github.com/Lalatenduswain/rename_to_lowercase.git
+     git clone https://github.com/Lalatenduswain/rename_to_lowercase.git
    ```
 2. **Navigate to the Script Directory**
 
