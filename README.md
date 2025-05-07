@@ -121,13 +121,13 @@ This script is provided as-is and may require modifications or updates based on 
 
 If you find this script useful and want to show your appreciation, you can donate via [Buy Me a Coffee](https://www.buymeacoffee.com/lalatendu.swain).
 
-For any issues or suggestions, feel free to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/rename_to_lowercase.sh/issues).
+For any issues or suggestions, feel free to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/rename_to_lowercase/issues).
 
 ---
 
 ## 🙋‍♂️ Support or Contact
 
-Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/rename_to_lowercase.sh/issues).
+Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/rename_to_lowercase/issues).
 
 ---
 
