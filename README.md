@@ -145,9 +145,3 @@ Encountering issues? Don't hesitate to submit an issue on our [GitHub page](http
 ## 🌟 Thank You
 
 Thank you for using the script! We appreciate your support and contributions. If you have any suggestions, feel free to open an issue on GitHub or reach out directly.
-
----
-
-## 📝 GitHub Repository
-
-* GitHub Repository URL: [https://github.com/Lalatenduswain/rename\_to\_lowercase.sh](https://github.com/Lalatenduswain/rename_to_lowercase.sh)
